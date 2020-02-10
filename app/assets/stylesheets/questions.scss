@@ -1,3 +1,33 @@
 // Place all the styles related to the questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  font-family: "Arial";
+  color: #363636;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+}
+
+.card {
+  border-left: 3px solid #DCDCDC;
+  padding-left: 5px;
+}
+
+.answer {
+  background-color: #FFFFE2;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 16px;
+}
